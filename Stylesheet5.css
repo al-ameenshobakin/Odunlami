@@ -1,0 +1,45 @@
+/* h2{
+    color: blue;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    font-family: verdana;
+} */
+body{
+    background-image: url(image14.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-right: 150px;
+}
+/* p{
+    text-align: center;
+    color: gold;
+} */
+ /* *{
+    text-align: center;
+    color: aqua;
+}  */
+/* h1{ */
+    /* margin-left: 450px;
+    color: gold;
+} */
+div.first{
+    background: rgb(0,0,128,0.1);
+    border: 2px solid green;
+    border-bottom: 2px solid burlywood;
+    border-radius: 10px;
+    border-top: 2px solid blue;
+}
+div.second{
+    background: rgb(0,0,128,0.3);
+    border-radius: 10px;
+    border-bottom: 2px solid burlywood;
+    border-top: 2px solid blue;
+}
+div.third{
+    background: rgb(0,0,128,0.6);
+    border-radius: 10px;
+    border-bottom: 2px solid burlywood;
+    border-top: 2px solid blue;
+}

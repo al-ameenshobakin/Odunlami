@@ -1,0 +1,149 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lightgray;
+}
+.contanier{
+    background-color: black;
+    width: 700px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    height: 700px;
+    margin-left: 300px;
+    height: 800px;
+}
+.ffg{
+    margin-left: -200px;
+    padding: 20px;
+}
+.tty{
+    color: green;
+    padding-left: 200px;
+    margin: 20px;
+    text-align: left;
+    font-size: larger;
+}
+.vvi{
+    color: green;
+    padding-left: 210px;
+    margin: 20px;
+    text-align: left;
+    font-size: larger;
+    margin-top: -20px;
+}
+.ttp{
+    padding: 8px;
+    width: 180px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 20px;
+    font-size: large;
+}
+.nnb{
+    padding: 8px;
+    width: 180px;
+    text-align: center;
+    margin-left: 200px;
+    font-size: large;
+    margin-top: -10px;
+}
+.ccz{
+    padding: 8px;
+    width: 180px;
+    text-align: center;
+    margin-left: 200px;
+    font-size: large;
+    margin-top: -10px;
+}
+.mmn{
+    padding: 8px;
+    width: 180px;
+    text-align: center;
+    margin-left: 200px;
+    font-size: large;
+    margin-top: -10px;
+}
+.aas{
+    padding: 8px;
+    width: 180px;
+    text-align: center;
+    margin-left: 210px;
+    font-size: large;
+    margin-top: -10px;
+}
+.con{
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    width: 350px;
+    height: 150px;
+    margin-left: 500px;
+    margin-top: -150px;
+    border-radius: 5px;
+}
+.ddh{
+    color: white;
+    margin-left: 15px;
+    text-align: left;
+    font-size: large;
+    border-radius: 4px;
+}
+.iou{
+    color: white;
+    margin-left: 15px;
+    font-size: large;
+    border-radius: 4px;
+    text-align: left;
+    margin: 20px;
+}
+.kmm{
+    color: green;
+    font-size: small;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.vvl{
+    color: green;
+    margin-left: 250px;
+    font-size: small;
+}
+.wwo{
+    font-size: large;
+    padding-left: 240px;
+    margin: 10px;
+}
+.ggh{
+    color: green;
+    font-size: small;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.wwv{
+    color: green;
+    margin-left: 250px;
+    font-size: small;
+    padding-top: 20px;
+}
+.zmm{
+    font-size: large;
+    padding-left: 240px;
+    margin: 10px;
+}
+.ddg{
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    width: 600px;
+    height: 120px;
+    margin-left: 250px;
+    margin-top: 30px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+}

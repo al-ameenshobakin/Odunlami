@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(189, 178, 178)
+}
+.www{
+    background-color: white;
+    width: 900px;
+    margin-left: 80px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.container{
+    margin-left: 90px;
+    padding: 20px;
+}
+.ass{
+    background-color: green;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    width: 700px;
+    margin-left: -70px;
+}
+.bcc{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    width: 250px;
+    border-radius: 4px;
+    margin-left: -70px;
+}
+.cdd{
+    background-color: lightgray;
+    color: black;
+    padding: 15px;
+    width: 250px;
+    border-radius: 4px;
+    margin-left: -70px;
+}
+.dee{
+    background-color: lightgray;
+    color: black;
+    padding: 15px;
+    width: 250px;
+    border-radius: 4px;
+    margin-left: -70px;
+}
+.eff{
+    background-color: lightgrey;
+    color: black;
+    padding: 15px;
+    width: 250px;
+    border-radius: 4px;
+    margin-left: -70px;
+}
+.fgg{
+    background-color: lightgray;
+    color: black;
+    padding: 15px;
+    width: 250px;
+    border-radius: 4px;
+    margin-left: -70px;
+}
+.wtt{
+    text-align: right;
+    margin-top: -350px;
+    margin-right: 70px;
+}
+.ghh{
+    margin-top: -30px;
+    font-size: x-large;
+    margin-right: 70px;
+}
+.hii{
+    margin-top: -30px;
+    font-size: x-large;
+    margin-right: 210px;
+}
+.ijj{
+    font-size: 200px;
+    font-size: large;
+    margin-left: 200px;
+    margin-right: 100px;
+    text-align: left;
+}
+.jkk{
+    font-size: large;
+    margin-left: 50px
+}
+.qqq{
+    text-align: left;
+}
+.kll{
+    font-size: large;
+    margin-right: 10px;
+    text-align: left;
+}
+.wpp{
+    font-size: large;
+    margin-left: 1px;
+    text-align: left;
+    margin-top: -20px;
+}
+.wow{
+    background-color: rgb(91, 165, 239);
+    width: 700px;
+    margin-left: -270px;
+    border-radius: 6px;
+}
+.bro{
+    margin-left: -1px;
+    text-align: left;
+    font-size: large;
+    border-radius: 4px;
+    color: white;
+}
+.pro{
+    margin-left: -1px;
+    font-size: large;
+    border-radius: 4px;
+    color: white;
+    text-align: left;
+}
+.mmm{
+    margin-left: -270px;
+    font-size: small;
+    border-radius: 6px;
+    width: 700px;
+    border-bottom: 2px solid gray;
+    border-top: 2px solid gray;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    text-align: left;
+}

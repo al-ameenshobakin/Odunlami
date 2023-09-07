@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-color: white; 
+}
+.qww{
+    color: green;
+    padding-left: 200px;
+    margin: 20px;
+    text-align: left;
+    font-size: larger;
+}
+.www{
+    text-align: left;
+    padding-left: 220px;
+}
+.bcc{
+    background-color: dimgray;
+    padding: 8px;
+    width: 180px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: larger;
+}
+.qqw{
+    background-color: dimgray;
+    padding: 8px;
+    width: 180px;
+    font-size: larger;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: -38px;
+}
+.eer{
+    background-color: green;
+    padding: 8px;
+    width: 180px;
+    text-align: center;
+    font-size: larger;
+    margin-left: 600px;
+    margin-top: -38px;
+}
+.ddd{
+    background-color: dimgray;
+    padding: 8px;
+    width: 180px;
+    font-size: larger;
+    text-align: center;
+    margin-left: 800px;
+    margin-top: -38px;
+}
+.ffr{
+    background-color: dimgray;
+    padding: 8px;
+    font-size: larger;
+    width: 180px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.ggh{
+    color: green;
+    margin: 20px;
+    padding-left: 180px;
+    font-size: larger;
+}
+.tty{
+    padding-left: 200px;
+    font-size: larger;
+}
+.ssd{
+    font-size: larger;
+    padding-left: 190px;
+    margin: 10px;
+}
+.wee{
+    font-size: large;
+    margin: 15px;
+    padding-left: 180px;
+    color: green;
+}
+.llo{
+    padding-left: 200px;
+    font-size: larger;
+}
+.boo{
+    font-size: larger;
+    padding-left: 190px;
+    margin: 10px;
+}
+.fff{
+    background-color: lightgray;
+    width: 800px;
+    margin-left: 200px;
+    border-radius: 4px;
+    border-bottom: 2px solid rgb(194, 186, 186);
+    border-top: 2px solid rgb(194, 186, 186);
+    border-left: 2px solid rgb(194, 186, 186);
+    border-right: 2px solid rgb(194, 186, 186);
+}
+.ddg{
+    margin-left: 15px;
+    text-align: left;
+    font-size: large;
+    border-radius: 4px;
+    color: green;
+}
+.ppp{
+    margin-left: 15px;
+    font-size: large;
+    border-radius: 4px;
+    color: black;
+    text-align: left;
+    margin: 20px;
+}
+.ccu{
+    text-align: center;
+    margin-left: -140px;
+    margin-top: 20px;
+}
